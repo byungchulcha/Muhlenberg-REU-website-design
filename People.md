@@ -33,7 +33,7 @@ He is currently an Assistant Professor and Chair of the Cedar Crest College Math
 Number theory is his primary area of research, focusing on studying the irreducibility or reducibility properties of polynomials, as well as studying properties and applications of covering systems of the integers.
 Additional research interests extend to areas of combinatorics, algebra, and analysis.
 Several OEIS sequences reference two of Harrington‚Äôs recent research publications. His publication "Characterizing Finite Groups Using the Sum of the Orders of the Elements," is referenced in sequences A060014 and A060015.
-A second publication "Representing Integers as the Sum of Two Squares in the Ring $Z_n$"Ì±õ‚Äù is referenced in sequences A000404, A240109, and A240370
+A second publication "Representing Integers as the Sum of Two Squares in the Ring $Z_n$" is referenced in sequences A000404, A240109, and A240370
 
 #### Kellen Myers
 Kellen Myers is an Assistant Professor of Mathematics at Farmingdale State College.
